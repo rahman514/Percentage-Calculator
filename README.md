@@ -1,3 +1,3 @@
 # Presentence Calculator 
 <br>
-Author - Mominur
+Author - Mominur Rahman
